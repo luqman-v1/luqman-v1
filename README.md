@@ -1,16 +1,17 @@
-### Hi there 👋
+# Luqmanul Hakim
 
-<!--
-**luqman-v1/luqman-v1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there, You can call me Luqman or luqman.
 
-Here are some ideas to get you started:
+Currently working as Backend Developer at [Qasir ID](https://qasir.id), Im write codes programming language, Go and PHP (Laravel).
+## Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luqman-v1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Luqmanul's Github Stats](https://github-readme-stats.vercel.app/api?username=luqman-v1&show_icons=true)
+
+
+## Find me 
+
+- Email : [n.loekman[at]gmail.com](mailto:n.loekman@gmail.com)
+- Linkedin : [https://www.linkedin.com/in/luqmanul-hakim-783692127/](https://www.linkedin.com/in/luqmanul-hakim-783692127/)
+- Steam : [L .E.G.O.W.O](https://steamcommunity.com/id/fuukmans) as specially DOTA player
