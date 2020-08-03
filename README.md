@@ -1,6 +1,6 @@
 # Luqmanul Hakim
 
-Hi there, You can call me Luqman or luqman.
+Hi there, You can call me Luqman or luqmen.
 
 Currently working as Backend Developer at [Qasir ID](https://qasir.id), Im write codes programming language, Go and PHP (Laravel).
 ## Stats
