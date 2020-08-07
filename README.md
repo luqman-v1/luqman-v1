@@ -1,4 +1,7 @@
+
 # Luqmanul Hakim
+
+![](https://komarev.com/ghpvc/?username=luqman-v1)
 
 Hi there, You can call me Luqman or luqmen.
 
@@ -15,3 +18,7 @@ Currently working as Backend Developer at [Qasir ID](https://qasir.id), Im write
 - Email : [n.loekman[at]gmail.com](mailto:n.loekman@gmail.com)
 - Linkedin : [https://www.linkedin.com/in/luqmanul-hakim-783692127/](https://www.linkedin.com/in/luqmanul-hakim-783692127/)
 - Steam : [L.E.G.O.W.O](https://steamcommunity.com/id/fuukmans) as specially DOTA player
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
