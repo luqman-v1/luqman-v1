@@ -21,4 +21,10 @@ Currently working as Backend Developer at [Qasir ID](https://qasir.id), Im write
 
 
 <!--START_SECTION:waka-->
+```text
+PHP              3 hrs 52 mins   ████████████████░░░░░░░░░   66.76 % 
+Blade Template   1 hr 12 mins    █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
+Other            32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+JavaScript       10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
+```
 <!--END_SECTION:waka-->
