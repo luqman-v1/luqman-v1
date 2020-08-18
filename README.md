@@ -13,12 +13,7 @@ Currently working as Backend Developer at [Qasir ID](https://qasir.id), Im write
 ![Luqmanul's Github Stats](https://github-readme-stats.vercel.app/api?username=luqman-v1&show_icons=true)
 
 
-## Find me 
-
-- Email : [n.loekman[at]gmail.com](mailto:n.loekman@gmail.com)
-- Linkedin : [https://www.linkedin.com/in/luqmanul-hakim-783692127/](https://www.linkedin.com/in/luqmanul-hakim-783692127/)
-- Steam : [L.E.G.O.W.O](https://steamcommunity.com/id/fuukmans) as specially DOTA player
-
+## WakaTime 
 
 <!--START_SECTION:waka-->
 ```text
@@ -29,3 +24,12 @@ JSON    36 mins         ▓░░░░░░░░░░░░░░░░░�
 Bash    10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 ```
 <!--END_SECTION:waka-->
+
+
+## Find me 
+
+- Email : [n.loekman[at]gmail.com](mailto:n.loekman@gmail.com)
+- Linkedin : [https://www.linkedin.com/in/luqmanul-hakim-783692127/](https://www.linkedin.com/in/luqmanul-hakim-783692127/)
+- Steam : [L.E.G.O.W.O](https://steamcommunity.com/id/fuukmans) as specially DOTA player
+
+
