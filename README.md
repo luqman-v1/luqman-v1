@@ -17,11 +17,8 @@ Currently working as Backend Developer at [Qasir ID](https://qasir.id), Im write
 
 <!--START_SECTION:waka-->
 ```text
-PHP               1 hr 30 mins    ███████████▓░░░░░░░░░░░░░   46.90 % 
-Go                52 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.28 % 
-Protocol Buffer   36 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.87 % 
-Blade Template    7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
-Git               3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+Go                43 mins         ████████████████████████░   95.73 % 
+Other             1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
 ```
 <!--END_SECTION:waka-->
 
