@@ -17,8 +17,8 @@ Currently working as Backend Developer at [Qasir ID](https://qasir.id), Im write
 
 <!--START_SECTION:waka-->
 ```text
-Go                43 mins         ████████████████████████░   95.73 % 
-Other             1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+Go                14 hrs          █████████████████████████   99.51 % 
+Other             3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 ```
 <!--END_SECTION:waka-->
 
