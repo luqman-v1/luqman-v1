@@ -17,11 +17,11 @@ Currently working as Backend Developer at [Qasir ID](https://qasir.id), Im write
 
 <!--START_SECTION:waka-->
 ```text
-Go                6 hrs 13 mins   █████████████████░░░░░░░░   67.92 % 
-HTML              1 hr 42 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.62 % 
-Markdown          19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
-Docker            12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
-Protocol Buffer   11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+Go          19 hrs 8 mins   ███████████████████████▓░   94.81 % 
+Docker      27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+.env file   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+Bash        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+protobuf    5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 ```
 <!--END_SECTION:waka-->
 
