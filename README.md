@@ -17,11 +17,11 @@ Currently working as Backend Developer at [Qasir ID](https://qasir.id), Im write
 
 <!--START_SECTION:waka-->
 ```text
-Go         18 hrs 52 mins  ██████████████████████▒░░   89.76 % 
-JSON       1 hr 6 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
-protobuf   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
-HTML       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
-go.mod     6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Go       17 hrs 40 mins  ███████████████████████▓░   94.24 % 
+JSON     29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+go.mod   17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+YAML     5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+Docker   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 ```
 <!--END_SECTION:waka-->
 
