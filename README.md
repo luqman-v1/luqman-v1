@@ -16,13 +16,16 @@ Currently working as Backend Developer at [Qasir ID](https://qasir.id), Im write
 ## WakaTime 
 
 <!--START_SECTION:waka-->
+
 ```text
-Go               21 hrs 50 mins  █████████████████████▓░░░   87.19 % 
-JSON             1 hr 3 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
-Markdown         38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-GitIgnore file   23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
-Makefile         22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Go                4 hrs 47 mins   ████████████████████████░   95.81 %
+GitIgnore file    6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+go.mod            2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+JSON              2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+Bash              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Log               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
+
 <!--END_SECTION:waka-->
 
 
