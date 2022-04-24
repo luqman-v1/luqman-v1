@@ -18,12 +18,12 @@ Currently working as Backend Developer at [Qasir ID](https://qasir.id), Im write
 <!--START_SECTION:waka-->
 
 ```text
-Go                12 hrs 10 mins  █████████████████████░░░░   83.86 %
-Makefile          1 hr 13 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 %
-JSON              32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
-Protocol Buffer   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
-protobuf          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
-Log               6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+Go                7 hrs 22 mins   █████████████████▓░░░░░░░   71.25 %
+Makefile          59 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.53 %
+JSON              49 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 %
+go.mod            21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
+protobuf          11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
+Text              9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
 ```
 
 <!--END_SECTION:waka-->
