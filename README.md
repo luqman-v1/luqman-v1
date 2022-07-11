@@ -5,7 +5,7 @@
 
 Hi there, You can call me Luqman or luqmen.
 
-Currently working as Backend Developer at [Qasir ID](https://qasir.id), Im write codes programming language, Go and PHP (Laravel).
+Currently working as Backend Developer at [Stockbit](https://stockbit.com/), Im write codes programming language, Go and PHP (Laravel).
 ## Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luqman-v1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
