@@ -32,6 +32,6 @@ go.mod            3 mins          ░░░░░░░░░░░░░░░�
 
 - Email : [n.loekman[at]gmail.com](mailto:n.loekman@gmail.com)
 - Linkedin : [https://www.linkedin.com/in/luqmanul-hakim-783692127/](https://www.linkedin.com/in/luqmanul-hakim-783692127/)
-- Steam : [L.E.G.O.W.O](https://steamcommunity.com/id/fuukmans) especially DOTA player
+- Steam : [L.E.G.O.W.O](https://steamcommunity.com/id/fuukmans) especially DOTA
 
 
