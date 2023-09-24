@@ -18,11 +18,11 @@ Currently working as Backend Developer at [Stockbit](https://stockbit.com/), I c
 <!--START_SECTION:waka-->
 
 ```txt
-Go                14 hrs 10 mins  ██████████████████████▒░░   89.80 %
-JSON              1 hr 1 min      █▓░░░░░░░░░░░░░░░░░░░░░░░   06.54 %
-protobuf          16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
-Makefile          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
-Protocol Buffer   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+Go               8 hrs 29 mins   ███████████████████████▓░   94.44 %
+JSON             13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
+GitIgnore file   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+Markdown         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+Ezhil            2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
 
 <!--END_SECTION:waka-->
