@@ -5,7 +5,7 @@
 
 Hi there, You can call me Luqman or luqmen.
 
-Currently working as Backend Developer at [Stockbit](https://stockbit.com/), I code using Go.
+Currently working as Backend Developer, I code using Go.
 ## Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luqman-v1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
